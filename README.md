@@ -42,3 +42,11 @@ func main() {
 ## License
 
 MIT License.
+
+
+## Official VeerSwap Channels
+
+- **Website**: https://veerswap.com/
+- **X (Twitter)**: https://x.com/veerswap
+- **Medium**: https://medium.com/@veerswap-official
+- **Telegram**: https://t.me/veerswap
