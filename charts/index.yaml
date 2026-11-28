@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  veerswap-address-validator:
+  - apiVersion: v2
+    appVersion: "0.1.0"
+    created: "2026-11-28T05:03:22Z"
+    description: Non-custodial cross-chain crypto address, checksum, and memo/destination tag validator service and CLI by VeerSwap.
+    digest: 4c33f7251200fefca99fd4c23fc8ad4360c07b8ad429c88d10be4dc3640766a2
+    home: https://veerswap.com/
+    icon: https://veerswap.com/icon.png
+    keywords:
+    - crypto
+    - blockchain
+    - address-validator
+    - cross-chain
+    - non-custodial
+    - veerswap
+    maintainers:
+    - email: naonao7k7k@gmail.com
+      name: VeerSwap Team
+      url: https://veerswap.com/
+    name: veerswap-address-validator
+    sources:
+    - https://github.com/naonao7k7k-cloud/multichain-memo-address-validator
+    - https://veerswap.com/guides/wrong-network
+    - https://veerswap.com/guides/memo-and-tag
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/naonao7k7k-cloud/multichain-memo-address-validator/main/charts/veerswap-address-validator-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-28T05:03:22Z"
